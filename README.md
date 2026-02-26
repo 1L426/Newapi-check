@@ -38,7 +38,7 @@ New-API 多账号自动签到工具，支持定时签到、Cloudflare 绕过、�
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<your-username>/Newapi-check.git
+git clone https://github.com/1L426/Newapi-check.git
 cd Newapi-check
 ```
 
@@ -99,7 +99,7 @@ docker-compose up -d --build
 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<your-username>/Newapi-check.git
+git clone https://github.com/1L426/Newapi-check.git
 cd Newapi-check
 ```
 
@@ -153,7 +153,7 @@ npm run dev
 1. 克隆仓库
 
 ```powershell
-git clone https://github.com/<your-username>/Newapi-check.git
+git clone https://github.com/1L426/Newapi-check.git
 cd Newapi-check
 ```
 
