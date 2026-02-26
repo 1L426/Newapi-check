@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Database
+data/
+*.db
+*.db-shm
+*.db-wal
+
+# Build output
+dist/
+
+# Environment
+.env
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+nul
+.claude/
+.omc/

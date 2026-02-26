@@ -1,0 +1,15 @@
+version: '3.8'
+
+services:
+  newapi-checkin:
+    build: .
+    container_name: newapi-checkin
+    restart: unless-stopped
+    ports:
+      - "3211:3211"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - NODE_ENV=production
+      - PORT=3211
+      # - ENCRYPT_KEY=your-custom-key-here
